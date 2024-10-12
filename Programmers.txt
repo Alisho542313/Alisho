@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 - java developer
+=======
+- Java Programmer ..
+- c++
+- javascript
+>>>>>>> Saeed
